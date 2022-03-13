@@ -1,4 +1,4 @@
-<h1 align="center">Alura Midi</h1>
+<h1 align="center">Alura Apeperia</h1>
 <p align="center">Projeto realizado no curso, Layouts Responsivos: Trabalhando com layouts mobile, oferecido pela alura e Projeto Desenvolve 2022 do Grupo Boticário</p>
 
 <h1 align="center">
